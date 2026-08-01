@@ -1,2 +1,27 @@
-**Here is a comprehensive description of the FinTrack: Smart Banking Expense Tracker project based on the provided report:OverviewFinTrack is a cutting-edge personal finance web application created as a Brain O Vision Internship Project by P Leela Kumar.  It is designed to replace cumbersome manual bookkeeping with an intuitive, banking-grade dashboard interface for tracking incomes, expenses, savings, and category breakdowns.  Tech Stack: Built using a modern full-stack ecosystem consisting of Vite, React, TypeScript, Bun, TanStack, and Tailwind CSS.  Project Directory StructureThe application is powered by the following core files and directories:  src/: Contains the core application source code, including components, layouts, and state logic.  .tanstack/: Handles TanStack routing and state caching architecture.  vite.config.ts: Configures the Vite bundler for high-performance builds.  bun.lock / bunfig.toml: Manages Bun package configurations and lockfile dependencies.  tsconfig.json: Enforces strict TypeScript compiler configurations for type safety.  Key FeaturesBanking-Style Dashboard: Delivers a real-time overview of available balance, total income, total expense, and savings.  Interactive Analytics: Features dynamic doughnut charts for monthly category spending (such as Rent, Shopping, Groceries, Utilities, and Travel) alongside bar charts for cash flow trends.  Transaction Management: Provides comprehensive transaction lists equipped with category tagging, date sorting, and status indicators.  Responsive User Interface: Utilizes a clean, minimalist design ensuring optimal viewing and performance across all devices.  ConclusionThe project successfully demonstrates modern frontend engineering practices using Vite, TypeScript, and React, offering an efficient personal financial management solution that establishes a robust foundation for future cloud and AI integrations
-**
+# FinTrack: Smart Banking Expense Tracker
+
+**FinTrack** is a cutting-edge personal finance web application designed to replace cumbersome manual bookkeeping with an intuitive, banking-grade dashboard interface[cite: 1]. Developed as part of the Brain O Vision Internship Program by **P Leela Kumar**, this platform enables users to effortlessly track incomes, expenses, savings, and category breakdowns[cite: 1].
+
+## 🚀 Tech Stack
+* **Framework:** React[cite: 1]
+* **Language:** TypeScript[cite: 1]
+* **Build Tool:** Vite[cite: 1]
+* **Package Manager:** Bun[cite: 1]
+* **Routing & State:** TanStack[cite: 1]
+* **Styling:** Tailwind CSS[cite: 1]
+
+## ✨ Key Features
+* **Banking-Style Dashboard:** Real-time overview of available balance, total income, total expense, and savings[cite: 1].
+* **Interactive Analytics:** Dynamic doughnut charts representing monthly category spending (Rent, Shopping, Groceries, Utilities, Travel) and bar charts for cash flow trends[cite: 1].
+* **Transaction Management:** Comprehensive transaction lists equipped with category tagging, date sorting, and status indicators[cite: 1].
+* **Responsive User Interface:** Clean, minimalist design ensuring optimal viewing across all devices[cite: 1].
+
+## 📁 Project Directory Structure
+* **`src/`**: Core application source code (components, layouts, state logic)[cite: 1].
+* **`.tanstack/`**: TanStack routing and state caching architecture[cite: 1].
+* **`vite.config.ts`**: Vite bundler configuration for high-performance builds[cite: 1].
+* **`bun.lock` / `bunfig.toml`**: Bun package manager configuration and lockfile[cite: 1].
+* **`tsconfig.json`**: TypeScript compiler configuration for strict type safety[cite: 1].
+
+## 🎯 Conclusion
+The FinTrack project successfully demonstrates modern frontend engineering practices using Vite, TypeScript, and React[cite: 1]. It provides an efficient and elegant solution for personal financial management, establishing a robust foundation for future cloud and AI integrations[cite: 1].
